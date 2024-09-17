@@ -1,0 +1,6 @@
+rootProject.name = 'cleanarch'
+include 'core'
+include 'usecase'
+include 'application'
+include 'infra'
+
